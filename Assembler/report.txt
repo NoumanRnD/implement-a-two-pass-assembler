@@ -1,0 +1,8 @@
+.text
+
+.symbol
+4	count
+4	array
+4	char
+
+.relocation
